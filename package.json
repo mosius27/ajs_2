@@ -1,0 +1,25 @@
+{
+  "name": "ajs_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosius27/ajs_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosius27/ajs_2/issues"
+  },
+  "homepage": "https://github.com/mosius27/ajs_2#readme",
+  "dependencies": {
+    "@mosius27/ajs": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+ }
+}
